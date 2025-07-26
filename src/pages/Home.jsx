@@ -37,7 +37,7 @@ export default function Home() {
                 </div>
                 <nav className="flex flex-row justify-end items-center gap-4 w-[100%] mt-5">
                     <div className="flex justify-center items-center rounded-full h-16 w-16">
-                        <a className={navStyle} href="https://www.instagram.com/colin.kurniawan/?hl=zh-cn" target="_blank" rel="noopener noreferrer">
+                        <a className={navStyle} href="https://www.instagram.com/colin.kurniawan/?igsh=MWhzODZqbnpsb21nYQ%3D%3D&utm_source=qr#" target="_blank" rel="noopener noreferrer">
                             <img className={`{imgStyle} w-[37px]`} src={insta} alt="" />
                         </a>
                     </div>
@@ -52,7 +52,7 @@ export default function Home() {
                         </a>
                     </div>
                     <div className="flex justify-center items-center rounded-full h-16 w-16">
-                        <a className={navStyle} href="" target="_blank" rel="noopener noreferrer">
+                        <a className={navStyle} href="mailto:colinconnor06@gmail.com" target="_blank" rel="noopener noreferrer">
                             <img className={`{imgStyle} w-[30px]`} src={mail} alt="" />
                         </a>
                     </div>
