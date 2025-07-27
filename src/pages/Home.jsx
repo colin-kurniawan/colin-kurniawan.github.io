@@ -29,7 +29,7 @@ export default function Home() {
                 </div>
                 <div>
                     <p className="text-white font-medium text-4xl pb-4">
-                        I'm a<span className="text-[#3B82F6]"> Coder</span>
+                        I'm a<span className="text-[#3B82F6]"> Words</span>
                     </p>
                 </div>
                 <div>
